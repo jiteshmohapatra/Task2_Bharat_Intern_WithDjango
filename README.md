@@ -19,6 +19,15 @@ This repository contains the tasks, projects, and progress related to my Full-St
 
 Feel free to explore the tasks and documents linked above to get a better understanding of the internship's scope and my contributions.
 
+## Features
+
+- Task Assignment: Users can assign tasks to others and track their progress.
+- Task Management: Users can create, edit, and mark tasks as completed.
+- Chat Functionality: Users can communicate through a chat system.
+- My Tasks: Users can view tasks assigned to them.
+- Assigned Tasks: Users can see tasks they've assigned to others.
+- Completed Tasks: Users can view completed tasks.
+
 
 ## Contact
 
